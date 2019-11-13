@@ -7,7 +7,7 @@ Try it
 -------
 Just run:
 
-    penmen.py [image_file]
+    
 
 For example, by running "penmen.py sample.png"
 
